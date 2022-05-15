@@ -6,7 +6,7 @@
 
 - Telecharger le git pour avoir acces aux fichiers du jeu
 - Aller dans /Game Project puis /Game
-- Executer le point Projet_Dev.exe
+- Executer Projet_Dev.exe
 - Bon Jeu
 
 - PS: les explications des touches sont dans le jeu
