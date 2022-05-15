@@ -2,6 +2,15 @@
 
 ## Cahier des charges
 
+### Comment lancer le jeu :
+
+- Telecharger le git pour avoir acces aux fichiers du jeu
+- Aller dans /Game Project puis /Game
+- Executer le point Projet_Dev.exe
+- Bon Jeu
+
+- PS: les explications des touches sont dans le jeu
+
 ### Comment jouer (13 pts)
 
 | ✔️ Flèches directionnelles et animation | **5** |
@@ -52,4 +61,4 @@
 - C#
 - Unity
 
-#### Total de points : 45 pts
+#### Total de points : 45 pts | Actuellement 38 pts
