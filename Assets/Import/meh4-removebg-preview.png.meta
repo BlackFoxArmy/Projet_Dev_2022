@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: a27ef21ec5ef3454ca9a9ac848eda7f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2201476280877928443
+    second: meh4-removebg-preview_0
+  - first:
+      213: 4988180806183640586
+    second: meh4-removebg-preview_1
+  - first:
+      213: -2792924113962354843
+    second: meh4-removebg-preview_2
+  - first:
+      213: 7358591034695477000
+    second: meh4-removebg-preview_3
+  - first:
+      213: 5841285687966384214
+    second: meh4-removebg-preview_4
+  - first:
+      213: -2163991652876540372
+    second: meh4-removebg-preview_5
+  - first:
+      213: 4318421469095851222
+    second: meh4-removebg-preview_6
+  - first:
+      213: -6576803237830346927
+    second: meh4-removebg-preview_7
+  - first:
+      213: -991216793054399063
+    second: meh4-removebg-preview_8
+  - first:
+      213: 2406050744213040552
+    second: meh4-removebg-preview_9
+  - first:
+      213: 4061024889695077418
+    second: meh4-removebg-preview_10
+  - first:
+      213: 5180823908439473741
+    second: meh4-removebg-preview_11
+  - first:
+      213: -8890884478556460630
+    second: meh4-removebg-preview_12
+  - first:
+      213: -4083580290295812751
+    second: meh4-removebg-preview_13
+  - first:
+      213: 2388761119817149849
+    second: meh4-removebg-preview_14
+  - first:
+      213: -376324481190759062
+    second: meh4-removebg-preview_15
+  - first:
+      213: 4730396648432470797
+    second: meh4-removebg-preview_16
+  - first:
+      213: -8254240167410226972
+    second: meh4-removebg-preview_17
+  - first:
+      213: 986569405674950182
+    second: meh4-removebg-preview_18
+  - first:
+      213: -3570074669109967543
+    second: meh4-removebg-preview_19
+  - first:
+      213: 3922564784658103560
+    second: meh4-removebg-preview_20
+  - first:
+      213: 8886006669829336544
+    second: meh4-removebg-preview_21
+  - first:
+      213: 3480197460361866039
+    second: meh4-removebg-preview_22
+  - first:
+      213: -7897359160110626509
+    second: meh4-removebg-preview_23
+  - first:
+      213: 827279229620254298
+    second: meh4-removebg-preview_24
+  - first:
+      213: -1410421090349120760
+    second: meh4-removebg-preview_25
+  - first:
+      213: -3409759015547669951
+    second: meh4-removebg-preview_26
+  - first:
+      213: 6296221614099906700
+    second: meh4-removebg-preview_27
+  - first:
+      213: -1723876293121800341
+    second: meh4-removebg-preview_28
+  - first:
+      213: 8606648194672553210
+    second: meh4-removebg-preview_29
+  - first:
+      213: -1583193889682185569
+    second: meh4-removebg-preview_30
+  - first:
+      213: -8737704972096549933
+    second: meh4-removebg-preview_31
+  - first:
+      213: -2681836012183029645
+    second: meh4-removebg-preview_32
+  - first:
+      213: 8924618768720063233
+    second: meh4-removebg-preview_33
+  - first:
+      213: 7033542302786452802
+    second: meh4-removebg-preview_34
+  - first:
+      213: -7397164930984592737
+    second: meh4-removebg-preview_35
+  - first:
+      213: -8946901672749144523
+    second: meh4-removebg-preview_36
+  - first:
+      213: 6007484886753348349
+    second: meh4-removebg-preview_37
+  - first:
+      213: 3917716508824158503
+    second: meh4-removebg-preview_38
+  - first:
+      213: 6350206739303441635
+    second: meh4-removebg-preview_39
+  - first:
+      213: -8060767186197467868
+    second: meh4-removebg-preview_40
+  - first:
+      213: -6089710731959164559
+    second: meh4-removebg-preview_41
+  - first:
+      213: -1035214076694341053
+    second: meh4-removebg-preview_42
+  - first:
+      213: 7986354173423557990
+    second: meh4-removebg-preview_43
+  - first:
+      213: -3920391175751030090
+    second: meh4-removebg-preview_44
+  - first:
+      213: 3761857129145944087
+    second: meh4-removebg-preview_45
+  - first:
+      213: 440706384116084936
+    second: meh4-removebg-preview_46
+  - first:
+      213: -9038053059851028402
+    second: meh4-removebg-preview_47
+  - first:
+      213: -8761666679097953647
+    second: meh4-removebg-preview_48
+  - first:
+      213: 7042291959337660571
+    second: meh4-removebg-preview_49
+  - first:
+      213: 8340527083921296821
+    second: meh4-removebg-preview_50
+  - first:
+      213: -868191750378536464
+    second: meh4-removebg-preview_51
+  - first:
+      213: 232859944884291870
+    second: meh4-removebg-preview_52
+  - first:
+      213: 6927247224632616333
+    second: meh4-removebg-preview_53
+  - first:
+      213: -8363709055528815229
+    second: meh4-removebg-preview_54
+  - first:
+      213: 5136996538671406653
+    second: meh4-removebg-preview_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meh4-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 360
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500b2d88cf8c271e0800000000000000
+      internalID: -2201476280877928443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 361
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5ff3c304993540800000000000000
+      internalID: 4988180806183640586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 328
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b6aed05a8d39d0800000000000000
+      internalID: -2792924113962354843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 328
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e56efe87fe1660800000000000000
+      internalID: 7358591034695477000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 328
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6504fce726a601150800000000000000
+      internalID: 5841285687966384214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 328
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2622699e05f7f1e0800000000000000
+      internalID: -2163991652876540372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 328
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f0e7327d1eeb30800000000000000
+      internalID: 4318421469095851222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 329
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157bb73fc408ab4a0800000000000000
+      internalID: -6576803237830346927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 299
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a53792149d7e32f0800000000000000
+      internalID: -991216793054399063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 298
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ade1607762046120800000000000000
+      internalID: 2406050744213040552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 312
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248b46fe98ab5830800000000000000
+      internalID: 4061024889695077418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb26245ebf5e740800000000000000
+      internalID: 5180823908439473741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 312
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ab943cab3d9480800000000000000
+      internalID: -8890884478556460630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 309
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da1299c553457c0800000000000000
+      internalID: -4083580290295812751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 309
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d27ff0595962120800000000000000
+      internalID: 2388761119817149849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 263
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657752d0e607caf0800000000000000
+      internalID: -376324481190759062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 264
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b048460beb5a140800000000000000
+      internalID: 4730396648432470797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 265
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a0c2fc4c037d80800000000000000
+      internalID: -8254240167410226972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 254
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e068bb5aff0bd00800000000000000
+      internalID: 986569405674950182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 211
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458416e00c847ec0800000000000000
+      internalID: -3570074669109967543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 204
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db00693efbf6630800000000000000
+      internalID: 3922564784658103560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 205
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edede27cff615b70800000000000000
+      internalID: 8886006669829336544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73be51db6252c4030800000000000000
+      internalID: 3480197460361866039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 152
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cde59fa1f66290800000000000000
+      internalID: -7897359160110626509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 153
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f29383161b7b00800000000000000
+      internalID: 827279229620254298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 157
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8038506bd7d2d6ce0800000000000000
+      internalID: -1410421090349120760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 157
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427894bd3a1ea0d0800000000000000
+      internalID: -3409759015547669951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 157
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cf8ff23ca06750800000000000000
+      internalID: 6296221614099906700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6702c715af8318e0800000000000000
+      internalID: -1723876293121800341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce63edee4f07770800000000000000
+      internalID: 8606648194672553210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 131
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ace2ab8d570ae0800000000000000
+      internalID: -1583193889682185569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db450a4f9f6db680800000000000000
+      internalID: -8737704972096549933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378fafb1b5438cad0800000000000000
+      internalID: -2681836012183029645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 131
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be7594c7d9adb70800000000000000
+      internalID: 8924618768720063233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24df44685792c9160800000000000000
+      internalID: 7033542302786452802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9abfa7efadf75990800000000000000
+      internalID: -7397164930984592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 91
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366073d45836d380800000000000000
+      internalID: -8946901672749144523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 92
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa067cecafde5350800000000000000
+      internalID: 6007484886753348349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c52768668e5630800000000000000
+      internalID: 3917716508824158503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 116
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e429727267702850800000000000000
+      internalID: 6350206739303441635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2391b3f6622090800000000000000
+      internalID: -8060767186197467868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171a0bc9a500d7ba0800000000000000
+      internalID: -6089710731959164559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5624384e22a1f0800000000000000
+      internalID: -1035214076694341053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d9e55aeca35de60800000000000000
+      internalID: 7986354173423557990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa8cc2ff8f799c0800000000000000
+      internalID: -3920391175751030090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 58
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c386b02dc43430800000000000000
+      internalID: 3761857129145944087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c07c731f14bd1600800000000000000
+      internalID: 440706384116084936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e487272b0a2629280800000000000000
+      internalID: -9038053059851028402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 62
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927dff939e486680800000000000000
+      internalID: -8761666679097953647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9039e0b93f3bb160800000000000000
+      internalID: 7042291959337660571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd47ac51318fb370800000000000000
+      internalID: 8340527083921296821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 61
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f143c1f33093f3f0800000000000000
+      internalID: -868191750378536464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 61
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19ce39d2e84b3300800000000000000
+      internalID: 232859944884291870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 61
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a98f06a6822060800000000000000
+      internalID: 6927247224632616333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bc744de22eeb80800000000000000
+      internalID: -8363709055528815229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meh4-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 8
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9beb82274a4740800000000000000
+      internalID: 5136996538671406653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
